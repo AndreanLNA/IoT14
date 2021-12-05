@@ -1,1 +1,3 @@
-sad
+Merupakan program sensor PIR yang dihubungkan dengan virtual terminal dimana 
+jika tidak terdeteksi(0) maka akan motion ended
+dan bila terdeteksi(1) maka akan motion detected
